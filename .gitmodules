@@ -36,7 +36,7 @@
 	url = https://github.com/anmolrk/Html_code.git
 [submodule "Test_code"]
 	path = Test_code
-	url = https://github.com/anmolrk/Test_code
+	url = https://github.com/anmolrk/Test_code.git
 
 [submodule "INT247_LPU"]
 	path = INT247_LPU
@@ -56,3 +56,15 @@
 [submodule "React_code"]
 	path = React_code
 	url = https://github.com/anmolrk/React_code.git
+[submodule "RubikCubeSolver_files"]
+	path = RubikCubeSolver_files
+	url = https://github.com/anmolrk/RubikCubeSolver_files.git
+[submodule "SoftComputing"]
+	path = SoftComputing
+	url = https://github.com/anmolrk/SoftComputing.git
+[submodule "VIKA_files"]
+	path = VIKA_files
+	url = https://github.com/anmolrk/VIKA_files.git
+[submodule "WebDev_Udemy"]
+	path = WebDev_Udemy
+	url = https://github.com/anmolrk/WebDev_Udemy.git
