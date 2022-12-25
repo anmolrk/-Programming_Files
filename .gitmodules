@@ -16,3 +16,21 @@
 [submodule "CPP"]
 	path = CPP
 	url = https://github.com/anmolrk/CPP.git
+[submodule "DBMS_LPU"]
+	path = DBMS_LPU
+	url = https://github.com/anmolrk/DBMS_LPU.git
+[submodule "DS_ALGO_LPU"]
+	path = DS_ALGO_LPU
+	url = https://github.com/anmolrk/DS_ALGO_LPU.git
+[submodule "DS_AlgoCpp_CH"]
+	path = DS_AlgoCpp_CH
+	url = https://github.com/anmolrk/DS_AlgoCpp_CH.git
+[submodule "Emoji_prediction"]
+	path = Emoji_prediction
+	url = https://github.com/anmolrk/Emoji_prediction.git
+[submodule "HackerRank_Practice"]
+	path = HackerRank_Practice
+	url = https://github.com/anmolrk/HackerRank_Practice.git
+[submodule "Html_code"]
+	path = Html_code
+	url = https://github.com/anmolrk/Html_code.git
