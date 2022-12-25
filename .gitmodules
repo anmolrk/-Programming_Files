@@ -1,3 +1,18 @@
 [submodule "AdvanceML"]
 	path = AdvanceML
 	url = https://github.com/anmolrk/AdvanceML.git
+[submodule "Autotyper"]
+	path = Autotyper
+	url = https://github.com/anmolrk/Autotyper.git
+[submodule "C-Sharp_CWH"]
+	path = C-Sharp_CWH
+	url = https://github.com/anmolrk/C-Sharp_CWH.git
+[submodule "C_Programming"]
+	path = C_Programming
+	url = https://github.com/anmolrk/C_Programming.git
+[submodule "CP_classesOfflineLPU"]
+	path = CP_classesOfflineLPU
+	url = https://github.com/anmolrk/CP_classesOfflineLPU.git
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/anmolrk/CPP.git
