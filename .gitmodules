@@ -34,3 +34,25 @@
 [submodule "Html_code"]
 	path = Html_code
 	url = https://github.com/anmolrk/Html_code.git
+[submodule "Test_code"]
+	path = Test_code
+	url = https://github.com/anmolrk/Test_code
+
+[submodule "INT247_LPU"]
+	path = INT247_LPU
+	url = https://github.com/anmolrk/INT247_LPU.git
+[submodule "Internship_Studio"]
+	path = Internship_Studio
+	url = https://github.com/anmolrk/Internship_Studio.git
+[submodule "Java_Tutorials"]
+	path = Java_Tutorials
+	url = https://github.com/anmolrk/Java_Tutorials.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/anmolrk/portfolio.git
+[submodule "Python_Programming"]
+	path = Python_Programming
+	url = https://github.com/anmolrk/Python_Programming.git
+[submodule "React_code"]
+	path = React_code
+	url = https://github.com/anmolrk/React_code.git
