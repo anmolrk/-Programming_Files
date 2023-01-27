@@ -71,3 +71,6 @@
 	path = unityGame
 	url = https://github.com/anmolrk/unityGame.git
 
+[submodule "unrealEngineProject"]
+	path = unrealEngineProject
+	url = https://github.com/anmolrk/unrealEngineProject.git
