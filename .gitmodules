@@ -74,3 +74,12 @@
 [submodule "unrealEngineProject"]
 	path = unrealEngineProject
 	url = https://github.com/anmolrk/unrealEngineProject.git
+[submodule "genderapp-main"]
+	path = genderapp-main
+	url = https://github.com/anmolrk/genderapp-main.git
+[submodule "Gender_Classification_Web_App"]
+	path = Gender_Classification_Web_App
+	url = https://github.com/anmolrk/Gender_Classification_Web_App.git
+[submodule "Gender_Classification_backup"]
+	path = Gender_Classification_backup
+	url = https://github.com/anmolrk/Gender_Classification_backup.git
